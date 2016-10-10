@@ -15,7 +15,7 @@ Some sweet ssl-related things that my team and I really like.
 ## Specs
 
 + [RFC5280](https://tools.ietf.org/html/rfc5280) - The offical spec describing the X.509v3 format, including extensions.
-
++ [RFC5077](https://tools.ietf.org/html/rfc5077) - The offical spec describing TLS state-less session resumption.
 
 ## License
 
