@@ -6,15 +6,17 @@
 
 Some sweet ssl-related things that my team and I really like.
 
-# Contents
++ [Contribution guide](./contributing.md)
+
+## Contents
 
 + [Specs](#specs) - Specs describing common components, systems, or formats that are pertinent to SSL.
 
-# Specs
+## Specs
 
 + [RFC5280](https://tools.ietf.org/html/rfc5280) - The offical spec describing the X.509v3 format, including extensions.
 
 
-# License
+## License
 
 Licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
